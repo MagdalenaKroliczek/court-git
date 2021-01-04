@@ -1,1 +1,1 @@
-# cours-git
+# court-git
